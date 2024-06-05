@@ -1,0 +1,1 @@
+const showMsg = () => {alert("Button clicked");}
